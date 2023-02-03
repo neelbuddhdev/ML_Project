@@ -1,0 +1,1 @@
+web: gunicorn main:crop_recommender_app
